@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Nov 27 15:57:11 CET 2017
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\andry\\Google Drive\\Progetti\\AndroidStudioProjects\\RaspberryMonitor\\mobile\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RaspberryMonitor.iml" filepath="$PROJECT_DIR$/RaspberryMonitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jsch-0.1.54/jsch-0.1.54.iml" filepath="$PROJECT_DIR$/jsch-0.1.54/jsch-0.1.54.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wear/wear.iml" filepath="$PROJECT_DIR$/wear/wear.iml" />
+    </modules>
+  </component>
+</project>

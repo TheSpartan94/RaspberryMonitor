@@ -1,0 +1,4 @@
+#Mon Nov 27 15:27:04 CET 2017
+base.0=C\:\\Users\\andry\\Google Drive\\Progetti\\AndroidStudioProjects\\RaspberryMonitor\\mobile\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
